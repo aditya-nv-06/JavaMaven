@@ -2,6 +2,7 @@ package src.main.java.com.company.leave.model;
 
 import java.time.LocalDate;
 
+
 public class LeaveRequest {
     private String id;
     private String employeeId;
